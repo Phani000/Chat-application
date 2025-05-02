@@ -2,6 +2,7 @@
 
 This chat-application was developed using html css and javascript with the react vite framework which is used for frontend development.
 
+
 ## ScreenShots
 
 ![screenshots\signup_page.png](https://github.com/Phani000/Chat-application/blob/main/screenshots/signup_page.png)
