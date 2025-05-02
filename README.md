@@ -4,10 +4,10 @@ This chat-application was developed using html css and javascript with the react
 
 ## ScreenShots
 
-![](screenshots\signup_page.png)
-![](screenshots\login_page.png)
-![](screenshots\chat_page.png)
-![](screenshots\profile_page.png)
+![screenshots\signup_page.png](screenshots\signup_page.png)
+![screenshots\login_page.png](screenshots\login_page.png)
+![screenshots\chat_page.png](screenshots\chat_page.png)
+![screenshots\profile_page.png](screenshots\profile_page.png)
 
 ## Contributing 
 
